@@ -41,6 +41,7 @@ export default {
     'react',
     'react-dom',
     'react-router-dom',
+    'rmc-list-view',
     'rmc-feedback',
     'prop-types',
     'classnames',
